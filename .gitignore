@@ -1,2 +1,6 @@
 build/**
 sim/tests/benchmarks/coremark/src/**
+.vscode/configurationCache.log
+.vscode/dryrun.log
+.vscode/settings.json
+.vscode/targets.log
